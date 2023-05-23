@@ -15,7 +15,7 @@ DSList é uma aplicação back-end com finalidade de realizar pesquisas em uma l
 * H2 (para teste)
 * Postgresql
 
-## Habilidades Utilizadas
+## Competências desenvolvidas
 * Conceitos:
   *  Sistemas web e recursos;
   *  Cliente/servidor, HTTP, JSON;
